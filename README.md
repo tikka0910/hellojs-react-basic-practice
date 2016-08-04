@@ -1,14 +1,6 @@
-# React Example
-This project rewrite from [React Transform Boilerplate](https://github.com/gaearon/react-transform-boilerplate).
-
-Run with development:
+# HelloJS Week4 - React Basic Practice
+## How to start
 ```
 npm install
-npm run dev
-```
-
-Production build:
-```
-npm install
-npm run build
+npm start
 ```
