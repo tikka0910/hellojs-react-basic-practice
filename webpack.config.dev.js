@@ -47,8 +47,8 @@ module.exports = {
   plugins: [
     new webpack.HotModuleReplacementPlugin(),
     new webpack.ProvidePlugin({
-      // React: 'react',
-      // ReactDOM:'react-dom'
+      React: 'react',
+      ReactDOM:'react-dom'
     })
   ]
 };
